@@ -14,6 +14,10 @@ N/A
 
 No functional changes were made to the webpage. Only semantic elements were changes to optimize accessibility and SEO ranking. If the website is inspected in DevTools console, the changes made to the webpage like the tag updates and alt text additions can be observed. 
 
+Below is a screenshot of the webpage:
+
+<img width="960" alt="webpage" src="https://github.com/Bashrat-Chowdhury/challenge1-refactoring/assets/133437739/77967fdb-48d3-4d9a-9ca4-9ff5cf18300e">
+
 ## Credits
 
 N/A
